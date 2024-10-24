@@ -56,8 +56,11 @@ nav ul li a:hover{
     margin: 20px 25px 40px 50px;
 }
 
-.apuntame:hover{
-    color: green;
+.apuntame{
+    text-decoration: none;
+    color: black;
+    background-color: rgb(93, 196, 128);
+    background: size 20px;
 }
 .foodSection{
     display:flex;
