@@ -84,14 +84,14 @@ nav ul li a:hover{
     padding: 8px;
     margin-top: 15px ;
 }
-p{
-    text-align: justify;
-}
 
-h4{
-    text-align: center;
+.foodSection article h5 a{
+    text-decoration: none;
+    color: black;
 }
-
+.foodSection article h5 a:hover{
+    color: #8A8070;
+}
 .foodSection article div{
     border-top: solid green 1px;
     border-bottom: solid green 1px;
