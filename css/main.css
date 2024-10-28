@@ -17,7 +17,7 @@ header{
 }
 
 .fotoHeader{
-    width: 40%;
+    width: 30%;
 }
 nav {
     border-top: solid black 1px;
@@ -61,6 +61,7 @@ nav ul li a:hover{
     color: black;
     background-color: rgb(93, 196, 128);
     background: size 20px;
+    width: 100%;
 }
 .foodSection{
     display:flex;
@@ -98,4 +99,24 @@ h4{
 
 .foodSection article div p{
     text-align: center;
+}
+footer{
+    background-color: black;
+}
+
+footer ul{
+    display:flex;
+    justify-content: center;
+    list-style-type: none;
+}
+footer ul li{
+    padding: 20px;
+}
+footer ul li a{
+    text-decoration: none;
+    color:white;
+}
+
+footer ul li a:hover{
+    color:green;
 }
