@@ -3,7 +3,7 @@ Fet per Jan Cabaces i Juan Pablo Acosta
 
 El projecte en la **primera entrega** l'hem estructurat de la següent manera:
 
-3 carpetes amb les diferents pàgines a les que es pot accedir des del menú de navegació de la propia web:
+3 carpetes amb les diferents pàgines que es troben en construcció, a les que es pot accedir des del menú de navegació de la propia web:
 
 - **Blog** (blog.html)
 - **Contacto** (contacto.html)
