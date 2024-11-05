@@ -1,0 +1,57 @@
+*{
+    text-align: justify;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contentSection div{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+    flex-wrap: wrap;
+}
+main{
+    text-align: center;
+}
+.contentSection div *{
+    text-align: center;
+}
+.contentSection div article{
+    width: 20%;
+}
+.titles{
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+.titles h3{
+    flex-basis: 30%;
+    text-align: center;
+}
+article img{
+    width: 100%;
+}
+article{
+    background-color: rgb(70, 139, 219);
+    margin: 2%;
+    padding: 3% 3% 0% 3%;
+}
+article a{
+    text-decoration: none;
+}
+span{
+    background-color: aqua;
+    border-radius: 5px 0px 0px 0px;
+    display: flex;
+    justify-content: end;
+    margin-right: -13%;
+}
+span:hover{
+    width: 120%;
+    filter: brightness(120%);
+}
