@@ -18,6 +18,9 @@ header{
 main{
     text-align: center;
 }
+main h2{
+    text-align: center;
+}
 .contentSection div *{
     text-align: center;
 }
@@ -29,7 +32,7 @@ main{
     width: 100%;
     text-align: center;
 }
-.titles h3{
+.titles h2{
     flex-basis: 30%;
     text-align: center;
 }
