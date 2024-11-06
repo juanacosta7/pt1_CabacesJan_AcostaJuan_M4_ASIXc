@@ -1,3 +1,4 @@
+
 *{
     text-align: justify;
 }
@@ -34,38 +35,18 @@ main{
     text-align: center;
 }
 article img{
-    width: 100%;
+    width: 15%;
 }
 article{
+    background-color: pink;
     margin: 2%;
     padding: 3% 3% 0% 3%;
 }
 article a{
     text-decoration: none;
+    color:black;
 }
-.linkGeneral{
-    background-color: orchid;
+article a:hover{
+    color: aliceblue;
 }
-.linkPasta{
-    background-color: lightblue;
-}
-.linkGalletas{
-    background-color: pink;
-}
-.linkMijo{
-    background-color: orange;
-}
-.linkCalabacines{
-    background-color: yellowgreen;
-}
-span{
-    background-color: aqua;
-    border-radius: 5px 0px 0px 0px;
-    display: flex;
-    justify-content: end;
-    margin-right: -13%;
-}
-span:hover{
-    width: 120%;
-    filter: brightness(120%);
-}
+
