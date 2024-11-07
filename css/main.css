@@ -99,6 +99,9 @@ nav ul li a:hover{
 .foodSection article div p{
     text-align: center;
 }
+.foodSection article p{
+    font-size: 12px;
+}
 footer{
     background-color: black;
 }
