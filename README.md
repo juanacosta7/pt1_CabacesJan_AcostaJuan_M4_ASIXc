@@ -15,3 +15,18 @@ El projecte en la **primera entrega** l'hem estructurat de la següent manera:
 - **Imatges** (Totes les imatges en format .jpg)
 
 I finalment l'**index.html** apart que és d'on s'estructura la pàgina inicial de la web.
+
+Per a la **segona entrega** hem ampliat el que havíem fet a la primera d'aquesta manera:
+
+Romanen les 3 carpetes originals, afegint la carpeta **recepta**, que conté a dins des de receta1.html fins a receta4.html, que són les 4 primeres receptes que hem personalitzat a la llista de receptes; que ara si que es troba implementada a **listado.html**.
+
+Hem afegit a la carpeta d'imatges la resta que hem utilitzat al llistat de receptes i dins les propies receptes.
+També hem implementat la resta de pàgines com ara l'apartat de **""SOBRE MI""**, mitjançant el blog.html i l'apartat de **"CONTACTO"** amb el contacto.html.
+
+Per la part de CSS, hem afegit els següents arxius:
+
+- **blog.css**
+- **contacto.css**
+- **listado.css**
+- **receta.css**
+- Y finalment la resta de receta.css per a les 4 recepte personalitzades
