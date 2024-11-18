@@ -1,318 +1,520 @@
 <receptes>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-    <recepta>
-      <autor>
-        <nom></nom>
-        <dni></dni>
-      </autor>
-      <nom></nom>
-      <ingredients>
-        <ingredient>
-          <nom></nom>
-          <quantitat>
-            <valor></valor>
-            <mesura></mesura>
-          </quantitat>
-        </ingredient>
-      </ingredients>
-      <passos>
-        <pas></pas>
-        <pas></pas>
-        <pas></pas>
-      </passos>
-    </recepta>
-  </receptes>
-  
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Ensalada de Garbanzos</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Garbanzos cocidos</nom>
+        <quantitat>
+          <valor>200</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Tomate</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Cebolla</nom>
+        <quantitat>
+          <valor>0.5</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Lavar y cortar el tomate y la cebolla en trozos pequeños.</pas>
+      <pas>Mezclar los garbanzos con el tomate y la cebolla.</pas>
+      <pas>Aliñar con aceite de oliva, sal y limón al gusto.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Batido de Plátano y Avena</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Plátano</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Avena</nom>
+        <quantitat>
+          <valor>30</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Leche vegetal</nom>
+        <quantitat>
+          <valor>250</valor>
+          <mesura>mililitros</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Pelar y trocear el plátano.</pas>
+      <pas>Agregar todos los ingredientes en una licuadora.</pas>
+      <pas>Batir hasta obtener una mezcla homogénea.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Guacamole</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Aguacate</nom>
+        <quantitat>
+          <valor>2</valor>
+          <mesura>unidades</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Limón</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Sal</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>pizca</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Pelar y machacar los aguacates en un bol.</pas>
+      <pas>Exprimir el limón sobre el aguacate.</pas>
+      <pas>Añadir sal y mezclar bien.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Hummus</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Garbanzos cocidos</nom>
+        <quantitat>
+          <valor>200</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Tahini</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>cucharada</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Limón</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Mezclar los garbanzos, tahini y jugo de limón en una procesadora.</pas>
+      <pas>Procesar hasta obtener una textura cremosa.</pas>
+      <pas>Servir con un chorro de aceite de oliva.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Tostada de Aguacate</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Aguacate</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Pan integral</nom>
+        <quantitat>
+          <valor>2</valor>
+          <mesura>rebanadas</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Sal</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>pizca</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Tostar las rebanadas de pan.</pas>
+      <pas>Pelar y aplastar el aguacate.</pas>
+      <pas>Untar el aguacate sobre el pan y añadir sal.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Sopa de Tomate</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Tomates</nom>
+        <quantitat>
+          <valor>3</valor>
+          <mesura>unidades</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Ajo</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>diente</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Agua</nom>
+        <quantitat>
+          <valor>500</valor>
+          <mesura>mililitros</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cocer los tomates y el ajo en agua durante 10 minutos.</pas>
+      <pas>Triturar todo en una licuadora.</pas>
+      <pas>Servir caliente con un poco de sal al gusto.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Crema de Calabaza</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Calabaza</nom>
+        <quantitat>
+          <valor>300</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Cebolla</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Agua</nom>
+        <quantitat>
+          <valor>500</valor>
+          <mesura>mililitros</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cocer la calabaza y la cebolla en agua durante 15 minutos.</pas>
+      <pas>Triturar hasta obtener una textura cremosa.</pas>
+      <pas>Servir con un poco de pimienta negra al gusto.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Salteado de Verduras</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Brócoli</nom>
+        <quantitat>
+          <valor>200</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Zanahoria</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Salsa de soja</nom>
+        <quantitat>
+          <valor>2</valor>
+          <mesura>cucharadas</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cortar las verduras en trozos pequeños.</pas>
+      <pas>Saltear en una sartén con un poco de aceite.</pas>
+      <pas>Añadir la salsa de soja y cocinar por 5 minutos.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Arroz con Verduras</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Arroz</nom>
+        <quantitat>
+          <valor>100</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Pimiento rojo</nom>
+        <quantitat>
+          <valor>0.5</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Guisantes</nom>
+        <quantitat>
+          <valor>50</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cocer el arroz según las instrucciones del paquete.</pas>
+      <pas>Saltear el pimiento y los guisantes en una sartén.</pas>
+      <pas>Mezclar el arroz con las verduras y servir.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Gazpacho</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Tomates</nom>
+        <quantitat>
+          <valor>4</valor>
+          <mesura>unidades</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Pimiento verde</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Pan</nom>
+        <quantitat>
+          <valor>50</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Trocear todos los ingredientes.</pas>
+      <pas>Licuar con un poco de agua y aceite de oliva.</pas>
+      <pas>Servir frío.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Sopa de Lentejas</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Lentejas cocidas</nom>
+        <quantitat>
+          <valor>150</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Zanahoria</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Agua</nom>
+        <quantitat>
+          <valor>500</valor>
+          <mesura>mililitros</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cocer las lentejas junto con la zanahoria troceada.</pas>
+      <pas>Añadir sal y especias al gusto.</pas>
+      <pas>Servir caliente.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Wrap de Vegetales</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Tortilla de trigo</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>unidad</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Lechuga</nom>
+        <quantitat>
+          <valor>2</valor>
+          <mesura>hojas</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Zanahoria rallada</nom>
+        <quantitat>
+          <valor>50</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Colocar la lechuga y la zanahoria sobre la tortilla.</pas>
+      <pas>Enrollar la tortilla firmemente.</pas>
+      <pas>Cortar por la mitad y servir.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Tofu a la Plancha</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Tofu</nom>
+        <quantitat>
+          <valor>200</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Salsa de soja</nom>
+        <quantitat>
+          <valor>2</valor>
+          <mesura>cucharadas</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cortar el tofu en láminas.</pas>
+      <pas>Marinar con la salsa de soja durante 10 minutos.</pas>
+      <pas>Cocinar en una sartén hasta que esté dorado.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Patatas al Horno</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Patatas</nom>
+        <quantitat>
+          <valor>3</valor>
+          <mesura>unidades</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Aceite de oliva</nom>
+        <quantitat>
+          <valor>2</valor>
+          <mesura>cucharadas</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Sal</nom>
+        <quantitat>
+          <valor>1</valor>
+          <mesura>pizca</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cortar las patatas en gajos.</pas>
+      <pas>Mezclar con aceite de oliva y sal.</pas>
+      <pas>Hornear a 200°C durante 30 minutos.</pas>
+    </passos>
+  </recepta>
+  <recepta>
+    <autor>
+      <nom>Chef Vegano</nom>
+      <dni>12345678A</dni>
+    </autor>
+    <nom>Pasta con Pesto Vegano</nom>
+    <ingredients>
+      <ingredient>
+        <nom>Pasta</nom>
+        <quantitat>
+          <valor>100</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Albahaca</nom>
+        <quantitat>
+          <valor>30</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+      <ingredient>
+        <nom>Anacardos</nom>
+        <quantitat>
+          <valor>20</valor>
+          <mesura>gramos</mesura>
+        </quantitat>
+      </ingredient>
+    </ingredients>
+    <passos>
+      <pas>Cocer la pasta según las instrucciones del paquete.</pas>
+      <pas>Preparar el pesto licuando la albahaca, los anacardos y aceite.</pas>
+      <pas>Mezclar la pasta con el pesto y servir.</pas>
+    </passos>
+  </recepta>
+</receptes>
