@@ -33,4 +33,4 @@ Per la part de CSS, hem afegit els següents arxius:
 
 Finalment per a la tercera entrega, per generar els 15 HTML hem fet servir un XML y un XSL, que ens permetrà generar totes les pàgines que hem fet, de manera automàtica.
 
-Apart d'això hem eliminat els css personalitzats i hem afegit un sol css per a totes les receptes generades amb els XSL
+Apart d'això hem eliminat els css personalitzats i hem afegit un sol css per a totes les receptes generades amb els XSL.
