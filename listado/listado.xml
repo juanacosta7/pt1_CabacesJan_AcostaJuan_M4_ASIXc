@@ -5,6 +5,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Ensalada de Garbanzos</nom>
+    <imatge>../imagenes/ensalada-de-garbanzos-con-la-vinagreta.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Garbanzos cocidos</nom>
@@ -40,6 +41,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Batido de Plátano y Avena</nom>
+    <imatge>../imagenes/batido-avena-platano.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Plátano</nom>
@@ -75,6 +77,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Guacamole</nom>
+    <imatge>../imagenes/guacamole.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Aguacate</nom>
@@ -110,6 +113,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Hummus</nom>
+    <imatge>../imagenes/humus.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Garbanzos cocidos</nom>
@@ -145,6 +149,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Tostada de Aguacate</nom>
+    <imatge>../imagenes/tostada-de-aguacate.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Aguacate</nom>
@@ -180,6 +185,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Sopa de Tomate</nom>
+    <imatge>../imagenes/sopa-de-tomate.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Tomates</nom>
@@ -215,6 +221,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Crema de Calabaza</nom>
+    <imatge>../imagenes/crema-de-calabaza.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Calabaza</nom>
@@ -250,6 +257,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Salteado de Verduras</nom>
+    <imatge>../imagenes/salteado-de-verduras.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Brócoli</nom>
@@ -285,6 +293,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Arroz con Verduras</nom>
+    <imatge>../imagenes/arroz-con-verduras.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Arroz</nom>
@@ -320,6 +329,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Gazpacho</nom>
+    <imatge>../imagenes/gazpacho.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Tomates</nom>
@@ -355,6 +365,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Sopa de Lentejas</nom>
+    <imatge>../imagenes/sopa-de-lentejas.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Lentejas cocidas</nom>
@@ -390,6 +401,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Wrap de Vegetales</nom>
+    <imatge>../imagenes/wrap-de-vegetales.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Tortilla de trigo</nom>
@@ -425,6 +437,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Tofu a la Plancha</nom>
+    <imatge>../imagenes/tofu-a-la-plancha.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Tofu</nom>
@@ -453,6 +466,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Patatas al Horno</nom>
+    <imatge>../imagenes/patatas-al-horno.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Patatas</nom>
@@ -488,6 +502,7 @@
       <dni>12345678A</dni>
     </autor>
     <nom>Pasta con Pesto Vegano</nom>
+    <imatge>../imagenes/pasta-con-pesto-vegano.jpg</imatge>
     <ingredients>
       <ingredient>
         <nom>Pasta</nom>

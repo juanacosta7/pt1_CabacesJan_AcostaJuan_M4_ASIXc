@@ -7,32 +7,49 @@
           <head>
             <meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-            <title><xsl:value-of select="nom" /></title>
+            <title><xsl:value-of select="nom"/></title>
             <link rel="stylesheet" href="../css/recetas.css"/>
           </head>
           <body>
-            <nav>
-              <ul>
-                <li><a href="../index.html">INICIO</a></li>
-                <li><a href="../blog/blog.html">SOBRE MÍ</a></li>
-                <li><a href="../listado/listado.html">RECETAS</a></li>
-                <li><a href="../contacto/contacto.html">CONTACTO</a></li>
-                <li><a href="#">OTRAS COSAS</a></li>
-              </ul>
-            </nav>
-            <h1><xsl:value-of select="nom" /></h1>
-            <h2>Por <xsl:value-of select="autor/nom" /></h2>
-            <p><strong>DNI:</strong> <xsl:value-of select="autor/dni" /></p>
+            <header>
+              <img class="fotoHeader" src="../imagenes/Logo-Delicias.png"/>
+              <nav>
+                <ul>
+                  <li><a href="../index.html">INICIO</a></li>
+                  <li><a href="../blog/blog.html">SOBRE MÍ</a></li>
+                  <li><a href="../listado/listado.html">RECETAS</a></li>
+                  <li><a href="../contacto/contacto.html">CONTACTO</a></li>
+                  <li><a href="#">OTRAS COSAS</a></li>
+                </ul>
+              </nav>
+            </header>
+            <div>
+              <img>
+                <xsl:attribute name="src">
+                  <xsl:value-of select="imatge"/>
+                </xsl:attribute>
+                <xsl:attribute name="alt">
+                  <xsl:value-of select="nom"/>
+                </xsl:attribute>
+              </img>
+              <h1><xsl:value-of select="nom"/></h1>
+              <h2>Por <xsl:value-of select="autor/nom"/></h2>
+              <p><strong>DNI:</strong> <xsl:value-of select="autor/dni"/></p>
+            </div>
             <h3>Ingredientes:</h3>
             <ul>
               <xsl:for-each select="ingredients/ingredient">
-                <li><xsl:value-of select="nom" />: <xsl:value-of select="quantitat/valor" /> <xsl:value-of select="quantitat/mesura" /></li>
+                <li>
+                  <xsl:value-of select="nom"/>: 
+                  <xsl:value-of select="quantitat/valor"/> 
+                  <xsl:value-of select="quantitat/mesura"/>
+                </li>
               </xsl:for-each>
             </ul>
-            <h3>Pasos:</h3>
+            <h3>Preparación:</h3>
             <ol>
               <xsl:for-each select="passos/pas">
-                <li><xsl:value-of select="." /></li>
+                <li><xsl:value-of select="."/></li>
               </xsl:for-each>
             </ol>
             <footer>
@@ -51,5 +68,6 @@
     </xsl:for-each>
   </xsl:template>
 </xsl:stylesheet>
+
 
 
