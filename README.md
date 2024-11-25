@@ -31,4 +31,6 @@ Per la part de CSS, hem afegit els següents arxius:
 - **receta.css**
 - Y finalment la resta de receta.css per a les 4 recepte personalitzades
 
-Finalment per a la tercera entrega, per generar els 15 html hem fet servir un xml y un xsl, que ens permetrà generar totes les pàgines que hem fet, de manera automàtica. 
+Finalment per a la tercera entrega, per generar els 15 HTML hem fet servir un XML y un XSL, que ens permetrà generar totes les pàgines que hem fet, de manera automàtica.
+
+Apart d'això hem eliminat els css personalitzats i hem afegit un sol css per a totes les receptes generades amb els XSL
